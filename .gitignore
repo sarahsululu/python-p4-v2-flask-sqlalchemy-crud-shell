@@ -68,3 +68,4 @@ myenv/
 __pycache__/
 *.pyc
 .vscode/
+myenv/
